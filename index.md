@@ -5,4 +5,9 @@
 ##### Oldest child header 
 ###### Youngest child header
 
-![A circle of black tea leaves](https://screenshot.click/09-41-rvhy4-4ih9d.png)
+![A circle of black tea leaves](https://screenshot.click/09-41-rvhy4-4ih9d.png) 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git
+```
